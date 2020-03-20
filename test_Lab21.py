@@ -5,7 +5,6 @@
 # correctly! Please do not change!
 
 
-import mock
 import pytest
 import os
 
