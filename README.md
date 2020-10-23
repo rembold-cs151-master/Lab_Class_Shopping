@@ -1,5 +1,5 @@
-# Lab 21
+# Lab 16
 
 Your goal in this lab is to write a very simple but functional class to manage the inventory and cost of one item in a store. Full instructions are online.
 
-Github added a few new features for classes, so I'm testing a few on this lab. The autotesting should still work the same way as before from your perspective, but I might be able to give feedback in a slightly different way. We'll see. It seemed reasonable to test on a lab like this instead of a homework!
+I was able to add some autotesting for this lab so you should be able to get pretty good feedback about if you are meeting what the instructions are asking for.

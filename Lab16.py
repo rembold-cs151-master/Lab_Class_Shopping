@@ -26,9 +26,12 @@
 
 
 if __name__ == '__main__':
-    pass
     # Add all of your created instances and test prints down here!
 
     # oranges = Item('orange', 34, 1.99)
     # print(oranges.stock)
     # print(oranges.price)
+
+    # oranges = Item('orange', 34, 1.99)
+    # print(f"Charged price: {oranges.purchase(13)})
+    # print(f"Charged price: {oranges.purchase(25)})
